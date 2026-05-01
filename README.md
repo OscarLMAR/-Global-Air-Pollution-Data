@@ -1,4 +1,4 @@
-Introducción
+#Introducción
 La calidad del aire es un factor fundamental en la salud y el bienestar de las personas y porque no de los demás seres vivos que habitan en el planeta. En las últimas décadas, el crecimiento urbano, la industrialización y el aumento de la maquinaria han contribuido al deterioro de las condiciones ambientales, especialmente en las grandes ciudades.
 
 Diversos organismos, como La OMS(Organización Mundial de la Salud) han alertado sobre riesgos asociados a la exposición prolongada a contaminantes atmosféricos destacando materiales finos (PM2.5) como uno de los más peligrosos debido a su capacidad de penetrar en el sistema respiratorio.
