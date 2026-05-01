@@ -52,7 +52,7 @@ Fuente: Plataforma Kaggle
 
 Link Kaggle: https://www.kaggle.com/datasets/sazidthe1/global-air-pollution-data/data
 
-Origen de los datos: Datos recopilados de estaciones de monitoreo ambiental y reportes internacionales (incluyendo organismos como la OMS)
+**Origen de los datos:** Datos recopilados de estaciones de monitoreo ambiental y reportes internacionales (incluyendo organismos como la OMS)
 
 Link OMS: https://www.who.int/es/news-room/fact-sheets/detail/ambient-%28outdoor%29-air-quality-and-health?utm_source=chatgpt.com
 
