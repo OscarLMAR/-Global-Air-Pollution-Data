@@ -80,7 +80,7 @@ Métricas para evaluar el análisis
 
 
 
-**Fuente de datos**
+#**Fuente de datos**
 
 Dataset principal: Calidad del aire global
 
@@ -100,5 +100,7 @@ Link OMS: https://www.who.int/es/news-room/fact-sheets/detail/ambient-%28outdoor
 
 
 Link Colab: https://colab.research.google.com/drive/1U6QD5q_poPrAIfVn1PYSVNmvj1ZOYAXL?usp=sharing
+
 Link GitHub: https://github.com/OscarLMAR/-Global-Air-Pollution-Data.git
+
 Link Trello: https://trello.com/invite/b/69f359ecf4c9bb99eed7b3c3/ATTI69e56535541461c6696fec24e17214b56FB9D8D3/calidad-del-aire-ambiente
