@@ -1,4 +1,4 @@
-**Introducción**
+# **Introducción**
 
 La calidad del aire es un factor fundamental en la salud y el bienestar de las personas y porque no de los demás seres vivos que habitan en el planeta. En las últimas décadas, el crecimiento urbano, la industrialización y el aumento de la maquinaria han contribuido al deterioro de las condiciones ambientales, especialmente en las grandes ciudades.
 
@@ -6,35 +6,7 @@ Diversos organismos, como La OMS(Organización Mundial de la Salud) han alertado
 
 En este documento, vamos a analizar los datos sobre un dataset que pudimos encontrar en Kaggle sobre la contaminación a nivel mundial analizando y organizando cada uno de los puntos que pide la actividad de la unidad uno.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Problema Presentado**
+# **Problema Presentado**
 
 La contaminación del aire representa un problema crítico de salud pública, especialmente en zonas urbanas donde los niveles de contaminantes pueden superar los límites recomendados.
 A pesar de la disponibilidad de datos abiertos sobre calidad del aire, no siempre se realiza un análisis que permita comparar de manera clara los niveles de contaminación entre diferentes ciudades ni entender la relación entre los principales indicadores ambientales.
@@ -45,12 +17,7 @@ Pregunta de Investigación
 
 
 
-
-
-
-
-
-Métricas para evaluar el análisis
+# **Métricas para evaluar el análisis**
 
 **Promedio de PM2.5 por ciudad**
 
@@ -72,15 +39,7 @@ Métricas para evaluar el análisis
 
  A través de histogramas o diagramas de caja, permite analizar la dispersión de los datos y detectar outliers.
 
-
-
-
-
-
-
-
-
-#**Fuente de datos**
+# **Fuente de datos**
 
 Dataset principal: Calidad del aire global
 
@@ -93,11 +52,6 @@ Link Kaggle: https://www.kaggle.com/datasets/sazidthe1/global-air-pollution-data
 Origen de los datos: Datos recopilados de estaciones de monitoreo ambiental y reportes internacionales (incluyendo organismos como la OMS)
 
 Link OMS: https://www.who.int/es/news-room/fact-sheets/detail/ambient-%28outdoor%29-air-quality-and-health?utm_source=chatgpt.com
-
-
-
-
-
 
 Link Colab: https://colab.research.google.com/drive/1U6QD5q_poPrAIfVn1PYSVNmvj1ZOYAXL?usp=sharing
 
