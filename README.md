@@ -1,3 +1,6 @@
+# **Descargue el archivo HTML y lo abre en el navegador.**
+
+
 # **Introducción**
 
 La calidad del aire es un factor fundamental en la salud y el bienestar de las personas y porque no de los demás seres vivos que habitan en el planeta. En las últimas décadas, el crecimiento urbano, la industrialización y el aumento de la maquinaria han contribuido al deterioro de las condiciones ambientales, especialmente en las grandes ciudades.
@@ -19,23 +22,23 @@ Pregunta de Investigación
 
 # **Métricas para evaluar el análisis**
 
-**Promedio de PM2.5 por ciudad**
+## **Promedio de PM2.5 por ciudad**
 
  Permite identificar qué ciudades presentan mayores niveles de contaminación.
  
-**Valores máximos y mínimos de PM2.5**
+## **Valores máximos y mínimos de PM2.5**
 
  Facilitan la detección de situaciones críticas o atípicas.
  
-**Promedio del índice AQI por ciudad**
+## **Promedio del índice AQI por ciudad**
 
  Permite evaluar la calidad del aire de forma general.
  
-**Correlación entre PM2.5 y AQI**
+## **Correlación entre PM2.5 y AQI**
 
  Mide la relación entre ambos indicadores y su nivel de dependencia.
  
-**Distribución de PM2.5**
+## **Distribución de PM2.5**
 
  A través de histogramas o diagramas de caja, permite analizar la dispersión de los datos y detectar outliers.
 
